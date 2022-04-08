@@ -1,0 +1,16 @@
+#image {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    color: blue;
+}
+
+form {
+    text-align: center;
+}
+
+.alert-danger {
+    color: red;
+}
